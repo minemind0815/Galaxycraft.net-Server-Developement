@@ -1,23 +1,30 @@
 # Galaxycraft.net-Server-Developement
-🚀 **Developer-Gesucht:**
+**Developer-Gesucht:**
 
-👾 *Minecraft & BungeeCord-Entwickler gesucht!*
+🚀 **Entwickle mit uns die Zukunft!**
 
-🛠️ **Anforderungen:**
-   - Plugin-Entwicklung für BungeeCord und Spigot/Bukkit
-   - Java, Spigot/Bukkit-API
-   - Kreativität, Teamgeist
+👾 *Bist du ein begeisterter Entwickler mit Leidenschaft für Minecraft und BungeeCord? Möchtest du Teil unseres Teams werden?*
 
-🌐 **Vision:**
-   - Einzigartige Spielmodi
-   - Neue Features, lebendige Community
+🛠️ **Was wir suchen:**
+   - Erfahrung in der Plugin-Entwicklung für BungeeCord und Spigot/Bukkit
+   - Kenntnisse in Java und Spigot/Bukkit-API
+   - Kreativität und Engagement für innovative Ideen
+   - Teamfähigkeit und Kommunikationsstärke
+
+🌐 **Unsere Vision:**
+   - Entwicklung und Optimierung von einzigartigen Spielmodi
+   - Implementierung neuer Features und Events
+   - Aufbau einer lebendigen und begeisterten Minecraft-Community
 
 🤝 **Was wir bieten:**
-   - Raum für Kreativität
-   - Einbindung ins Netzwerk
+   - Raum für kreative Entfaltung und innovative Projekte
+   - Einbindung in die Entwicklung unseres Netzwerks
 
-💼 **Bewerbung:**
-   - An: server.galaxy2023@gmail.com
-   - Erfahrungen teilen, warum du passt
+💼 **Wie du dich bewerben kannst:**
+   - Sende uns deine Bewerbung an „server.galaxy2023@gmail.com
+   - Teile uns deine Erfahrungen und bisherigen Projekte mit
+   - Zeige uns, warum du die perfekte Ergänzung für unser Team bist
 
-🚀 *Gestalte Galaxycraft.net mit!* 🌟
+🚀 *Starte mit uns durch und gestalte die Zukunft von Galaxycraft.net!*
+
+**Wir freuen uns auf deine Bewerbung!**<3
